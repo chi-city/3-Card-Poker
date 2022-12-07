@@ -2,8 +2,7 @@
 
 /*
  * Authors: 
- * 			Zaid Awaidah
- * 			Alex Castillo
+ * 			Zaid Awaidah 
  * UIC, Fall 2022
  * CS 342
  * 
